@@ -188,7 +188,7 @@ function QuaMapColor(num)
         }
          if(b.title === ""){
           return -1;
-        }else if(a.price === b.price){
+        }else if(a.description === b.description){
           return 0;
         }
         else 
